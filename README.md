@@ -12,10 +12,10 @@ calculations is increased, which allows to zoom deeper into the fractal.
 ## Summary
 
 * **[Fractals](#fractals)**
-* **[Libraries](#libraries)**
 * **[Build](#build)**
-* **[Releases](#releases)**
+* **[Libraries](#libraries)**
 * **[License](#license)**
+* **[Releases](#releases)**
 * **[Credits](#credits)**
 
 ## Fractals
