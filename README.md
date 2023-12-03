@@ -26,17 +26,17 @@ calculations is increased, which allows to zoom deeper into the fractal.
 
 ### Julia
 
-![Julia_1](shared/misc/julia_1.png)
-![Julia_2](shared/misc/julia_2.png)
+![Julia 1](shared/misc/julia_1.png)
+![Julia 2](shared/misc/julia_2.png)
 
 ### Burning Ship
 
-![](shared/misc/burning_ship.png)
+![Burning Ship](shared/misc/burning_ship.png)
 
 ### Newton
 
-![](shared/misc/newton_1.png)
-![](shared/misc/newton_2.png)
+![Newton 1](shared/misc/newton_1.png)
+![Newton 2](shared/misc/newton_2.png)
 
 ## Build
 
