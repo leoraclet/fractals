@@ -40,11 +40,21 @@ calculations is increased, which allows to zoom deeper into the fractal.
 
 ## Build
 
-To build this project, you need to have Cmake installed on your system.
+To build this project, you need to have CMake of Make installed depending on your system. Make the way to go if you are on Linux or MacOS, if you are on Windows, I recommend using CMake.
 
-#### Linux
+#### Linux / MacOS
+
+Run the follwing commands in your terminal
+```bash
+$ git clone https://github.com/leoraclet/fractals
+$ cd fractals/
+$ make .
+$ ./fractals
+```
 
 #### Windows
+
+I can't guarantee that it will build the project properly on windows since I only tested it on Linux by now, so you're on your own this time.
 
 ## Libraries
 
