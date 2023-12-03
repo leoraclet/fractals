@@ -6,8 +6,8 @@ This is a simple C / C++ application that allows you to generate and explore col
 These fractals are generated in real time thanks to the GPU power.
 It is possible to zoom in and out and move in the complex plane with your mouse.
 
-Deep zooms are made possible by emulating doubles on the GPU so the precision of 
-calculations is almost doubled, and we can then zoom deeper.
+Deep zooms are made possible by emulating doubles on the GPU, so the precision of 
+calculations is increased, which allows to zoom deeper into the fractal.
 
 ## Summary
 
