@@ -40,19 +40,23 @@ This boosts the accuracy of computations, allowing for much deeper zoom levels.
 
 ### Mandelbrot
 
-![](./assets/misc/mandelbrot_colored.png)
+<img style="border-radius: 50px;" src="./assets/misc/mandelbrot_colored.png">
 
 ### Julia
 
-![julia1](./assets/misc/julia_1.png) ![julia2](./assets/misc/julia_2.png)
+<img style="border-radius: 50px;" src="./assets/misc/julia_1.png"> <br>
+<br>
+<img style="border-radius: 50px;" src="./assets/misc/julia_2.png">
 
 ### Burning Ship
 
-![](./assets/misc/burning_ship.png)
+<img style="border-radius: 50px;" src="./assets/misc/burning_ship.png">
 
 ### Newton
 
-![](./assets/misc/newton_1.png) ![](./assets/misc/newton_2.png)
+<img style="border-radius: 50px;" src="./assets/misc/newton_1.png"> <br>
+<br>
+<img style="border-radius: 50px;" src="./assets/misc/newton_2.png">
 
 
 
