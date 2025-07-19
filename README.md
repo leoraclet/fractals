@@ -158,7 +158,7 @@ cmake --build .
 Then, you can run the produced executable in `build` with
 
 ```basb
-./example
+./fractals
 ```
 
 ### Windows (WSL)
