@@ -6,6 +6,12 @@
 ![license](https://img.shields.io/github/license/leoraclet/fractals)
 ![language](https://img.shields.io/github/languages/top/leoraclet/fractals)
 ![lastcommit](https://img.shields.io/github/last-commit/leoraclet/fractals)
+<br>
+![Release](https://img.shields.io/badge/Release-v1.0-blueviolet)
+![Language](https://img.shields.io/badge/Language-C++-1d50de)
+![Libraries](https://img.shields.io/badge/Framework-SFML-fa8925)
+![Size](https://img.shields.io/badge/Size-75Mo-f12222)
+![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
 </div>
 
@@ -104,6 +110,7 @@ This boosts the accuracy of computations, allowing for much deeper zoom levels.
     [**dev-templates**](https://github.com/the-nix-way/dev-templates))
   - `.envrc` - Used by **direnv** to load **Flakes**
   - `flake.lock` - Used by **Flakes** to version packages
+  - `CMakeLists.txt` -  CMake configuration to build the project
 
 ## 📚 Libraries
 
